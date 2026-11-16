@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Information | XML Table</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Employee Information</h1>
+            <p>Data read from XML file and displayed in tabular format</p>
+        </header>
+
+        <div class="toolbar">
+            <div class="toolbar-actions">
+                <button id="btnLoad">Reload Data</button>
+                <label for="fileUpload" class="btn-upload">Upload XML</label>
+                <input type="file" id="fileUpload" accept=".xml">
+            </div>
+            <input type="text" id="searchInput" placeholder="Search by name, ID, or department...">
+        </div>
+
+        <div class="table-container">
+            <table id="empTable">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Name</th>
+                        <th>Department</th>
+                        <th>Designation</th>
+                        <th>Salary</th>
+                        <th>Email</th>
+                        <th>Joining Date</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody">
+                    <!-- Populated dynamically from XML -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

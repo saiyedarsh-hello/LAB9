@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <id>EMP-1001</id>
+        <name>Aarav Sharma</name>
+        <designation>Senior Cloud Architect</designation>
+        <department>Cloud Infrastructure</department>
+        <salary>115000</salary>
+        <email>aarav.sharma@techcorp.com</email>
+        <joiningDate>2020-04-12</joiningDate>
+    </employee>
+    <employee>
+        <id>EMP-1002</id>
+        <name>Priya Patel</name>
+        <designation>Lead UX/UI Designer</designation>
+        <department>Product Design</department>
+        <salary>82000</salary>
+        <email>priya.patel@techcorp.com</email>
+        <joiningDate>2021-08-15</joiningDate>
+    </employee>
+    <employee>
+        <id>EMP-1003</id>
+        <name>Rohan Mehta</name>
+        <designation>DevSecOps Engineer</designation>
+        <department>Cybersecurity</department>
+        <salary>98000</salary>
+        <email>rohan.mehta@techcorp.com</email>
+        <joiningDate>2019-11-05</joiningDate>
+    </employee>
+    <employee>
+        <id>EMP-1004</id>
+        <name>Sneha Iyer</name>
+        <designation>Human Resources Director</designation>
+        <department>Human Resources</department>
+        <salary>89000</salary>
+        <email>sneha.iyer@techcorp.com</email>
+        <joiningDate>2018-06-20</joiningDate>
+    </employee>
+    <employee>
+        <id>EMP-1005</id>
+        <name>Dr. Vikram Malhotra</name>
+        <designation>Principal AI Researcher</designation>
+        <department>AI &amp; Research</department>
+        <salary>135000</salary>
+        <email>vikram.m@techcorp.com</email>
+        <joiningDate>2021-01-10</joiningDate>
+    </employee>
+    <employee>
+        <id>EMP-1006</id>
+        <name>Ananya Joshi</name>
+        <designation>QA Automation Specialist</designation>
+        <department>Quality Assurance</department>
+        <salary>76000</salary>
+        <email>ananya.j@techcorp.com</email>
+        <joiningDate>2022-03-25</joiningDate>
+    </employee>
+    <employee>
+        <id>EMP-1007</id>
+        <name>Karan Kapoor</name>
+        <designation>Product Marketing Strategist</designation>
+        <department>Marketing</department>
+        <salary>74000</salary>
+        <email>karan.k@techcorp.com</email>
+        <joiningDate>2023-02-14</joiningDate>
+    </employee>
+    <employee>
+        <id>EMP-1008</id>
+        <name>Neha Sengupta</name>
+        <designation>Full Stack Engineer</designation>
+        <department>Engineering</department>
+        <salary>92000</salary>
+        <email>neha.s@techcorp.com</email>
+        <joiningDate>2022-09-01</joiningDate>
+    </employee>
+    <employee>
+        <id>EMP-1009</id>
+        <name>Siddharth Rao</name>
+        <designation>Senior Financial Analyst</designation>
+        <department>Finance</department>
+        <salary>87000</salary>
+        <email>siddharth.r@techcorp.com</email>
+        <joiningDate>2020-07-19</joiningDate>
+    </employee>
+    <employee>
+        <id>EMP-1010</id>
+        <name>Meera Nambiar</name>
+        <designation>Mobile Application Lead</designation>
+        <department>Engineering</department>
+        <salary>96000</salary>
+        <email>meera.n@techcorp.com</email>
+        <joiningDate>2021-12-01</joiningDate>
+    </employee>
+</employees>
